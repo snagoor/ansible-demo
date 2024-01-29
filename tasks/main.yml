@@ -1,0 +1,5 @@
+---
+# tasks file for demo
+- name: "This is a demo role"
+  command: echo "Hello World"
+

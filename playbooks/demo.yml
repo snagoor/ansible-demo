@@ -1,0 +1,6 @@
+---
+- name: "Testing the Ansible Code bot Scan"
+  hosts: all
+  tasks:
+    - name: "Test"
+      include_role: demo
